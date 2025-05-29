@@ -1,0 +1,15 @@
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\bin\Debug\net8.0\ParProg_4.exe
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\bin\Debug\net8.0\ParProg_4.deps.json
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\bin\Debug\net8.0\ParProg_4.runtimeconfig.json
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\bin\Debug\net8.0\ParProg_4.dll
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\bin\Debug\net8.0\ParProg_4.pdb
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.AssemblyInfoInputs.cache
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.AssemblyInfo.cs
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.csproj.CoreCompileInputs.cache
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.sourcelink.json
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.dll
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\refint\ParProg_4.dll
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.pdb
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ParProg_4.genruntimeconfig.cache
+C:\Users\mymin\Downloads\ParProg_4\ParProg_4\obj\Debug\net8.0\ref\ParProg_4.dll
